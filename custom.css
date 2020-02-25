@@ -3,7 +3,7 @@
     background-image: url('https://cdn.discordapp.com/attachments/681760010392436836/681760491475042318/SSLogo.png');
     background-position-y: 50px;
     background-size: 1000px;
-    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/base.svgz.svg');
+    -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/base.svgz.svg');
     mask-repeat: no-repeat;
     height: 630px;
     width: 750px;
@@ -48,7 +48,7 @@
     width: 170px;
     height: 61px;
     background-color: #191919;
-    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/bumper.svgz.svg');
+    -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/bumper.svgz.svg');
 }
 
 .custom .bumpers {
@@ -115,7 +115,7 @@
 .custom .back,
 .custom .start {
     background-color: #191919;
-    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/start-select.svgz.svg');
+    -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/start-select.svgz.svg');
     width: 33px;
     height: 33px;
     opacity: 1;
@@ -230,7 +230,7 @@
 
 .custom .face.up {
     background-color: #191919;
-    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
+    -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
     mask-position: 34px 0;
     left: 38px;
     top: 0px;
@@ -240,7 +240,7 @@
 
 .custom .face.down {
     background-color: #191919;
-    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
+    -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
 
     left: 38px;
     bottom: 0;
@@ -250,7 +250,7 @@
 
 .custom .face.left {
     background-color: #191919;
-    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
+    -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
     mask-position: 0 -93px;
     width: 55px;
     height: 35px;
@@ -260,7 +260,7 @@
 
 .custom .face.right {
     background-color: #191919;
-    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
+    -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
     mask-position: 0 -57px;
 
     background-position: 0 -57px;
