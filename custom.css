@@ -4,7 +4,7 @@
     background-position-y: 50px;
     background-size: 1000px;
     -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/base.svgz.svg');
-    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -231,7 +231,7 @@
 .custom .face.up {
     background-color: #191919;
     -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
-    mask-position: 34px 0;
+    -webkit-mask-position: 34px 0;
     left: 38px;
     top: 0px;
     width: 34px;
@@ -251,7 +251,7 @@
 .custom .face.left {
     background-color: #191919;
     -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
-    mask-position: 0 -93px;
+    -webkit-mask-position: 0 -93px;
     width: 55px;
     height: 35px;
     top: 38px;
@@ -261,7 +261,7 @@
 .custom .face.right {
     background-color: #191919;
     -webkit-mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
-    mask-position: 0 -57px;
+    -webkit-mask-position: 0 -57px;
 
     background-position: 0 -57px;
     width: 55px;
