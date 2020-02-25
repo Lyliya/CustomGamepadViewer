@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom {
-    background-image: url('http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz');
+    background-image: url('https://cdn.discordapp.com/attachments/681760010392436836/681760491475042318/SSLogo.png');
     background-position-y: 50px;
     background-size: 1000px;
     mask-image: url(xbox-assets/base.svgz);
@@ -116,7 +116,8 @@
     left: 306px;
 }
 
-.custom .back, .custom .start {
+.custom .back,
+.custom .start {
     background-color: #191919;
     mask-image: url(xbox-assets/start-select.svgz);
     width: 33px;
@@ -125,7 +126,8 @@
     border-radius: 30px;
 }
 
-.custom .back.pressed, .custom .start.pressed {
+.custom .back.pressed,
+.custom .start.pressed {
     background-color: gray;
 }
 
@@ -251,7 +253,7 @@
 }
 
 .custom .face.left {
-        background-color: #191919;
+    background-color: #191919;
     mask-image: url(xbox-assets/dpad.svgz);
     mask-position: 0 -93px;
     width: 55px;
@@ -261,7 +263,7 @@
 }
 
 .custom .face.right {
-            background-color: #191919;
+    background-color: #191919;
     mask-image: url(xbox-assets/dpad.svgz);
     mask-position: 0 -57px;
 
