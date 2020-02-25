@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom {
-    background-image: url('https://cdn.discordapp.com/attachments/681760010392436836/681760491475042318/SSLogo.png');
+    background-image: url('http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz');
     background-position-y: 50px;
     background-size: 1000px;
     mask-image: url(xbox-assets/base.svgz);
