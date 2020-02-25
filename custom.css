@@ -3,7 +3,7 @@
     background-image: url('https://cdn.discordapp.com/attachments/681760010392436836/681760491475042318/SSLogo.png');
     background-position-y: 50px;
     background-size: 1000px;
-    mask-image: url(xbox-assets/base.svgz);
+    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/base.svgz.svg');
     mask-repeat: no-repeat;
     height: 630px;
     width: 750px;
@@ -11,12 +11,8 @@
         margin-top: -285px;*/
 }
 
-.custom.white {
-    background: url(xbox-assets/base-white.svgz);
-}
-
 .custom.disconnected {
-    background: url(xbox-assets/disconnected.svgz);
+    background: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/disconnected.svgz.svg');
 }
 
 .custom.disconnected div {
@@ -34,7 +30,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(xbox-assets/trigger.svgz);
+    background: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/trigger.svgz.svg');
     opacity: 0;
 }
 
@@ -52,7 +48,7 @@
     width: 170px;
     height: 61px;
     background-color: #191919;
-    mask-image: url(xbox-assets/bumper.svgz);
+    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/bumper.svgz.svg');
 }
 
 .custom .bumpers {
@@ -79,7 +75,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(xbox-assets/quadrant.svgz);
+    background: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/quadrant.svgz.svg');
     height: 45px;
     width: 45px;
     top: 258px;
@@ -119,7 +115,7 @@
 .custom .back,
 .custom .start {
     background-color: #191919;
-    mask-image: url(xbox-assets/start-select.svgz);
+    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/start-select.svgz.svg');
     width: 33px;
     height: 33px;
     opacity: 1;
@@ -150,7 +146,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(xbox-assets/abxy.svgz);
+    background: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/abxy.svgz.svg');
     width: 48px;
     height: 48px;
 }
@@ -195,7 +191,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(xbox-assets/stick.svgz);
+    background: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/stick.svgz.svg');
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -234,7 +230,7 @@
 
 .custom .face.up {
     background-color: #191919;
-    mask-image: url(xbox-assets/dpad.svgz);
+    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
     mask-position: 34px 0;
     left: 38px;
     top: 0px;
@@ -244,7 +240,7 @@
 
 .custom .face.down {
     background-color: #191919;
-    mask-image: url(xbox-assets/dpad.svgz);
+    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
 
     left: 38px;
     bottom: 0;
@@ -254,7 +250,7 @@
 
 .custom .face.left {
     background-color: #191919;
-    mask-image: url(xbox-assets/dpad.svgz);
+    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
     mask-position: 0 -93px;
     width: 55px;
     height: 35px;
@@ -264,7 +260,7 @@
 
 .custom .face.right {
     background-color: #191919;
-    mask-image: url(xbox-assets/dpad.svgz);
+    mask-image: url('https://rawcdn.githack.com/Lyliya/CustomGamepadViewer/5f75f04913ea227ef7cf35075f0afc80990d83c4/dpad.svgz.svg');
     mask-position: 0 -57px;
 
     background-position: 0 -57px;
